@@ -4,11 +4,15 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/xdKeto/count.svg?"  />
+
+  <a href="https://yestoo.vercel.app"> 
+    <h3> Portfolio </h3>
+  </a>
 </div>
 
 ###
 <div align="center">
-  <a href="https://yestoo.vercel.app"> Portfolio </a>
+  
   <img src="https://streak-stats.demolab.com?user=xdKeto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdKeto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
