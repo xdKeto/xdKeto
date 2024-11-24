@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://u8views.com/github/xdKeto"><img src="https://u8views.com/api/v1/github/profiles/128332966/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/xdKeto"><img src="https://u8views.com/api/v1/github/profiles/128332966/views/total-count.svg"></a>
 
   <a href="https://yestoo.vercel.app"> 
     <h3> Portfolio </h3>
