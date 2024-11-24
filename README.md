@@ -3,10 +3,12 @@
 ###
 
 <div align="center">
-  <a href="https://u8views.com/github/xdKeto"><img src="https://u8views.com/api/v1/github/profiles/128332966/views/total-count.svg"></a>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=xdKeto&label=Profile%20Views&color=4&icon=1&pretty=false" />
+</a>
 
   <a href="https://yestoo.vercel.app"> 
-    <h3> Portfolio </h3>
+    
   </a>
 </div>
 
